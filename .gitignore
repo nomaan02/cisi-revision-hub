@@ -1,0 +1,15 @@
+# Your own study materials and progress: never commit these
+knowledge-base/
+pdfs/
+*.pdf
+*.zip
+progress.json
+rewards/
+
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
